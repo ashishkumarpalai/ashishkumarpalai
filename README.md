@@ -15,7 +15,7 @@
 - 💬 Ask me about **Node Backend Developer**
 
 - 📫 How to reach me **ashishkumarpalai2000@gmail.com**
-- 💬 Have a look at my [Portfolio](https://ashishkumarpalai.github.io/)
+- 💬 Have a look at my [portfolio-link](https://ashishkumarpalai.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
