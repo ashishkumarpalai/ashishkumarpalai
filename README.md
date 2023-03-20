@@ -7,7 +7,7 @@
 <!--   <img align="right"  alt="codding" width="300" margin-top="50" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
  <p align="center" color:"red">
-     <a href="https://github.com/Appy26/readme-typing-svg">
+     <a href="https://github.com/ashishkumarpalai/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ashish Kumar Palai 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
