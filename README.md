@@ -5,7 +5,7 @@
 
 
 <!--   <img align="right"  alt="codding" width="300" margin-top="50" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumarpalai&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumarpalai" /> </p>
  <p align="center" color:"red">
 <!--      <a href="https://github.com/ashishkumarpalai/readme-typing-svg"> -->
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ashish Kumar Palai 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
@@ -45,7 +45,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="center" width="400" src="https://media0.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif?cid=ecf05e47mj4yetjzjws1iluh59npr6p3nqr1yncxqs26bh2c&rid=giphy.gif&ct=g"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumarpalai&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumarpalai" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkumarpalai" alt="ashishkumarpalai" /></a> </p>
 
@@ -59,7 +59,7 @@
 - 💬 Have a look at my [portfolio-link](https://ashishkumarpalai.github.io/)
 <a href="https://ashishkumarpalai.github.io/">See My Portfolio</a>
  -->
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -82,7 +82,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumarpalai&" alt="ashishkumarpalai" /></p>
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ak_111_ak/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumarpalai/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ak_111_ak)[![!PortFolio](https://img.shields.io/badge/-Portfolio-Blue)](https://ashishkumarpalai.github.io/)
 
 
 
