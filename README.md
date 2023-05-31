@@ -32,33 +32,12 @@
 
 
 
- 
-
-
-
-
-
-<!-- 
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ashish Kumar Palai</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="center" width="400" src="https://media0.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif?cid=ecf05e47mj4yetjzjws1iluh59npr6p3nqr1yncxqs26bh2c&rid=giphy.gif&ct=g"> -->
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkumarpalai" alt="ashishkumarpalai" /></a> </p>
 
-<!-- - 🔭 I’m currently working on **olx**
 
-- 🌱 I’m currently learning **Nodejs,Express ,MongoDB ,SQL ,AWS**
-
-- 💬 Ask me about **Node Backend Developer**
-
-- 📫 How to reach me **ashishkumarpalai2000@gmail.com**
-- 💬 Have a look at my [portfolio-link](https://ashishkumarpalai.github.io/)
-<a href="https://ashishkumarpalai.github.io/">See My Portfolio</a>
- -->
 
 <p align="left">
 </p>
@@ -76,6 +55,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkumarpalai&show_icons=true&locale=en&layout=compact" alt="ashishkumarpalai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkumarpalai&show_icons=true&locale=en" alt="ashishkumarpalai" /></p>
@@ -87,28 +67,3 @@
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ak_111_ak/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumarpalai/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ak_111_ak)[![!PortFolio](https://img.shields.io/badge/-Portfolio-Blue)](https://ashishkumarpalai.github.io/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**ashishkumarpalai/ashishkumarpalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
